@@ -8,70 +8,70 @@ A **Java Backend Developer** with 4 years of experience building scalable, cloud
 
 <div align="center">
 
-<table width="60%">
+<table>
   <tr>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a href="https://www.java.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="48" height="48"/>
       </a>
     </td>
-    <td align="left"><b>Java</b></td>
+    <td align="left" width="200"><b>Java</b></td>
   </tr>
   <tr>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring boot" width="48" height="48"/>
       </a>
     </td>
-    <td align="left"><b>Spring Boot</b></td>
+    <td align="left" width="200"><b>Spring Boot</b></td>
   </tr>
   <tr>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="48" height="48"/>
       </a>
     </td>
-    <td align="left"><b>AWS</b></td>
+    <td align="left" width="200"><b>AWS</b></td>
   </tr>
   <tr>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="48" height="48"/>
       </a>
     </td>
-    <td align="left"><b>MySQL</b></td>
+    <td align="left" width="200"><b>MySQL</b></td>
   </tr>
   <tr>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="48" height="48"/>
       </a>
     </td>
-    <td align="left"><b>MongoDB</b></td>
+    <td align="left" width="200"><b>MongoDB</b></td>
   </tr>
   <tr>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/>
       </a>
     </td>
-    <td align="left"><b>Git</b></td>
+    <td align="left" width="200"><b>Git</b></td>
   </tr>
   <tr>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="intellij" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/jetbrains/jetbrains-icon.svg" alt="intellij" width="48" height="48"/>
       </a>
     </td>
-    <td align="left"><b>IntelliJ IDEA</b></td>
+    <td align="left" width="200"><b>IntelliJ IDEA</b></td>
   </tr>
   <tr>
-    <td align="center" width="60">
+    <td align="center" width="80">
       <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="48" height="48"/>
       </a>
     </td>
-    <td align="left"><b>Postman</b></td>
+    <td align="left" width="200"><b>Postman</b></td>
   </tr>
 </table>
 
